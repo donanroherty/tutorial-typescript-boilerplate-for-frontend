@@ -1,0 +1,12 @@
+{
+  "name": "typescript-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
