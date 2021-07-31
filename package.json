@@ -6,7 +6,7 @@
   "scripts": {
     "ts": "tsc -w",
     "serve": "cd public && web-dev-server --node-resolve --watch --open --app-index index.html",
-    "dev": "yarn ts && yarn serve"
+    "dev": "yarn ts & yarn serve"
   },
   "devDependencies": {
     "@web/dev-server": "^0.1.18",
